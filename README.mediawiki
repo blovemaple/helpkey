@@ -1,0 +1,10 @@
+==Introduction==
+A shell script to kill the most CPU-intensive process. Define a shortcut key to run it. Appliable to when I/O response is very slow.
+
+==Usage==
+With default signal:
+helpkey.sh
+
+With specified signal:
+helpkey.sh -<signal>
+example: helpkey.sh -9
