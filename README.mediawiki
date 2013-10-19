@@ -3,8 +3,12 @@ A shell script to kill the most CPU-intensive process. Define a shortcut key to 
 
 ==Usage==
 With default signal:
+
 helpkey.sh
 
+
 With specified signal:
+
 helpkey.sh -<signal>
+
 example: helpkey.sh -9
