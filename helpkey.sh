@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Author: blovemaple
+# Date:   2013/10/19
+# E-mail: blovemaple2010@gmail.com
+#
+# A shell script to kill the most CPU-intensive process of current system user. Define a shortcut key to run it. Appliable to when I/O response is very slow.
+
 signal=$1
 
 ps aux\
