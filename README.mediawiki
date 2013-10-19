@@ -6,4 +6,4 @@ With default signal:
  helpkey.sh
 
 With specified signal:
- helpkey.sh -<signal>
+ helpkey.sh <signal>
